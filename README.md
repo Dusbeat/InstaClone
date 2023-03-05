@@ -12,7 +12,7 @@ Página de Login desenvolvida puramente com HTML5 e CSS3 por mim.
 <br>
 
 ### Desktop:
-![Imagem do Projeto](https://cdn.discordapp.com/attachments/1081731626150670467/1081732467687440464/download_1.png)
+![Imagem do Projeto](https://cdn.discordapp.com/attachments/1081731626150670467/1081762829205504080/image.png)
 
 ### Tablet:
 ![Imagem do Projeto](https://cdn.discordapp.com/attachments/1081731626150670467/1081763344488353913/image.png)
